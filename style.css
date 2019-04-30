@@ -1,0 +1,21 @@
+#box1 {
+	border: 2px solid rgba(170, 89, 57, 0.2);
+	padding-bottom: 30px;
+	margin-top: 50px;	
+	width: 50%;
+	height: 50px;
+	text-align: center;
+
+}
+
+#box2 {
+	border: 2px solid black;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+#box3 {
+	border: 2px solid black;
+}	
+
+p { 
+	font-family: 'Source Sans Pro', sans-serif;
+ }
